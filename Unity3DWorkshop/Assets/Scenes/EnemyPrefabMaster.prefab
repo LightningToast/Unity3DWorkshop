@@ -25,7 +25,7 @@ GameObject:
   - component: {fileID: 54390734725004736}
   - component: {fileID: 114982318995585938}
   m_Layer: 0
-  m_Name: Enemy
+  m_Name: EnemyPrefabMaster
   m_TagString: EnemyMaster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -124,5 +124,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 458413a4d4ddd42f1b91cc9e8d8004d0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 0}
   enemySpeed: 50

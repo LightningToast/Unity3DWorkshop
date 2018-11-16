@@ -1,10 +1,14 @@
 ﻿<Properties StartupConfiguration="{E3249878-FB69-9CBA-00BB-89CBDE54215B}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/EnemyMaster.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EnemySpawn.cs">
     <Files>
-      <File FileName="Assets/Scenes/PlayerMaster.cs" Line="16" Column="26" />
-      <File FileName="Assets/Scenes/EnemySpawnMaster.cs" Line="29" Column="9" />
-      <File FileName="Assets/Scenes/EnemyMaster.cs" Line="9" Column="3" />
+      <File FileName="Assets/Scenes/PlayerMaster.cs" Line="21" Column="2" />
+      <File FileName="Assets/Scenes/EnemySpawnMaster.cs" Line="38" Column="27" />
+      <File FileName="Assets/Scenes/EnemyMaster.cs" Line="18" Column="33" />
+      <File FileName="Assets/Scenes/Player.cs" Line="19" Column="15" />
+      <File FileName="Assets/wheenewscript.cs" Line="6" Column="4" />
+      <File FileName="Assets/EnemyScript.cs" Line="11" Column="2" />
+      <File FileName="Assets/EnemySpawn.cs" Line="14" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
